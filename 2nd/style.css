@@ -1,0 +1,49 @@
+body {
+    background-image: url(tha.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar {
+    background-color: #50107a;
+    border-radius: 7px;
+       
+}
+.navbar li {
+    display: flex;
+    list-style: none;
+    float: left;
+    padding: 8px 15px;
+    margin: 9px 20px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    text-align: center;
+
+}
+.navbar li a {
+    text-decoration: none;
+    padding-top: 9px;
+    color: aliceblue;
+}
+.navbar ul {
+    overflow: auto;
+}
+.Search {
+    padding: 9px 91px;
+    padding-top: 18px;
+    color: aliceblue;
+    margin: auto;
+    display: flex;
+    flex-grow: 20px;
+}
+.navbar input {
+    border: 5px solid #9461fb;
+    border-radius: 15px;
+    padding: 4px;
+}
+.logo {
+   padding-top: 10px;
+   padding: 8px 9px;
+    
+
+}
